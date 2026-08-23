@@ -60,7 +60,6 @@ A modern SaaS chat application with real-time messaging, conversation history, a
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -101,8 +100,6 @@ A modern SaaS chat application with real-time messaging, conversation history, a
 
 <img height="195" src="assets/github-stats.svg" alt="Laxman's GitHub stats — 451 commits in 2025, 16 repositories" />
 <img height="195" src="assets/top-langs.svg" alt="Most used languages — TypeScript, Python, JavaScript, HTML, CSS" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laxmansirvi05&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub streak" />
 
 </div>
 
