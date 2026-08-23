@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=680&height=75&duration=3200&lines=Laxman+Sirvi;AI+%26+Full-Stack+Developer;I+build+agentic%2C+voice-first+AI+products;Turning+real+problems+into+shipped+software" alt="Laxman Sirvi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=680&height=75&duration=2500&lines=Laxman+Sirvi" alt="Laxman Sirvi" />
 
 ### 🚀 AI &amp; Full-Stack Developer — I build agentic, voice-first AI products that solve real problems
 
@@ -99,8 +99,8 @@ A modern SaaS chat application with real-time messaging, conversation history, a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laxmansirvi05&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="Laxman's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmansirvi05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top languages" />
+<img height="195" src="assets/github-stats.svg" alt="Laxman's GitHub stats — 451 commits in 2025, 16 repositories" />
+<img height="195" src="assets/top-langs.svg" alt="Most used languages — TypeScript, Python, JavaScript, HTML, CSS" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laxmansirvi05&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub streak" />
 
