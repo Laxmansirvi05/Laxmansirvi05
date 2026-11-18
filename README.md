@@ -23,7 +23,7 @@ I'm **Laxman Sirvi** — a builder who ships. I'm a second-year **B.Tech student
 
 I don't stop at demos. I've shipped an **agentic AI job-search pipeline**, a full **AI career platform** (31 pages, 50+ API routes, 590+ tests), a **Spring Boot learning platform** with 800+ passing tests, and a **healthcare discovery app** with maps and an AI report explainer — end-to-end, from PostgreSQL row-level security and Next.js server components to LLM orchestration, provider failover, and cloud deployment on Vercel and Azure. I care about correctness, clean architecture, and software that actually works for its users.
 
-- 🔭 **Currently building:** [Opportunity Radar](https://github.com/Laxmansirvi05/opportunity-radar) and its agentic search engine, plus [Campus Companion](https://github.com/Laxmansirvi05/student-management-system) and [CareRoute](https://github.com/Laxmansirvi05/Hospital_Managment_System).
+- 🔭 **Currently building:** improvements to [Opportunity Radar](https://github.com/Laxmansirvi05/opportunity-radar) and its agentic search engine. [Campus Companion](https://github.com/Laxmansirvi05/student-management-system) and [CareRoute](https://github.com/Laxmansirvi05/Hospital_Managment_System) are shipped.
 - 🌱 **Sharpening:** Spring Boot &amp; testing, system design, and agentic AI workflows.
 - 🎯 **Goal:** an internship in AI/ML, data science, or full-stack development — then top-tier engineering and higher study.
 - 🌐 **Portfolio:** [laxmansirvi.me](https://laxmansirvi.me) — projects, tech stack, certificates, and how to reach me.
