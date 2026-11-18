@@ -19,13 +19,14 @@
 
 ## 👋 About Me
 
-I'm **Laxman Sirvi** — a builder who ships. I'm a second-year **B.Tech student in Computer Science (AI &amp; ML)** at Geethanjali College of Engineering and Technology (CGPA 9.25), and I've completed the **Foundation level in Programming &amp; Data Science at IIT Madras**. I spend my time turning hard, real-world problems into production software.
+I'm **Laxman Sirvi** — a builder who ships. I'm a second-year **B.Tech student in Computer Science (AI &amp; ML)** at Geethanjali College of Engineering and Technology (CGPA 9.25), with the **Foundation level in Programming &amp; Data Science from IIT Madras** completed. I turn real-world problems into production software and deploy it for real users.
 
-I don't stop at demos. I've shipped an **agentic AI job-search pipeline**, a **Spring Boot learning platform**, and a full **AI career platform** — end-to-end, from PostgreSQL row-level security and Next.js server components to LLM orchestration, provider failover, and self-hosted speech. I care about correctness, clean architecture, and software that actually works for its users.
+I don't stop at demos. I've shipped an **agentic AI job-search pipeline**, a full **AI career platform** (31 pages, 50+ API routes, 590+ tests), a **Spring Boot learning platform** with 800+ passing tests, and a **healthcare discovery app** with maps and an AI report explainer — end-to-end, from PostgreSQL row-level security and Next.js server components to LLM orchestration, provider failover, and cloud deployment on Vercel and Azure. I care about correctness, clean architecture, and software that actually works for its users.
 
-- 🔭 **Currently building:** production AI products around student careers — search, interviews, and résumé intelligence.
-- 🌱 **Sharpening:** Java &amp; OOP, system design, and agentic AI workflows.
-- 🎯 **Goal:** a strong software/AI engineering internship, then top-tier engineering and higher study.
+- 🔭 **Currently building:** [Opportunity Radar](https://github.com/Laxmansirvi05/opportunity-radar) and its agentic search engine, plus [Campus Companion](https://github.com/Laxmansirvi05/student-management-system) and [CareRoute](https://github.com/Laxmansirvi05/Hospital_Managment_System).
+- 🌱 **Sharpening:** Spring Boot &amp; testing, system design, and agentic AI workflows.
+- 🎯 **Goal:** an internship in AI/ML, data science, or full-stack development — then top-tier engineering and higher study.
+- 🌐 **Portfolio:** [laxmansirvi.me](https://laxmansirvi.me) — projects, tech stack, certificates, and how to reach me.
 - ⚡ **Philosophy:** fewer, better-built things. Ship real, verify everything.
 
 ---
